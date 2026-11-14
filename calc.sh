@@ -1,6 +1,6 @@
 #!/bin/sh
 # Tiny calculator for the git bisect exercise.
-# build: 19
+# build: 21
 # Usage: sh calc.sh add 2 3
 
 add() { echo $(( $1 + $2 )); }
