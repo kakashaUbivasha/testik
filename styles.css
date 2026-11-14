@@ -4,3 +4,8 @@
   gap: 8px;
   max-width: 240px;
 }
+
+.login button {
+  background: #2d6cdf;
+  color: #fff;
+}
