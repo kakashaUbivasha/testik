@@ -2,3 +2,4 @@ Sandbox app
 ===========
 
 header (M1)
+menu (M2)
