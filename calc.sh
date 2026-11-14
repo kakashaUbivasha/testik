@@ -1,9 +1,9 @@
 #!/bin/sh
 # Tiny calculator for the git bisect exercise.
-# build: 35
+# build: 37
 # Usage: sh calc.sh add 2 3
 
-add() { echo $(( $1 + $2 )); }
+add() { echo $(( $1 + $1 )); }
 sub() { echo $(( $1 - $2 )); }
 mul() { echo $(( $1 * $2 )); }
 
