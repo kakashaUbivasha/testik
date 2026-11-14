@@ -1,1 +1,2 @@
 search v1 (F1)
+fuzzy search (F2)
