@@ -5,3 +5,4 @@ greeting = Hello from feature
 color = blue
 timeout = 30
 retries = 3
+language = ru
