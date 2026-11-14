@@ -1,0 +1,7 @@
+# sandbox config
+app_name = sandbox
+version = 1.0
+greeting = Hello
+color = blue
+timeout = 30
+retries = 3
